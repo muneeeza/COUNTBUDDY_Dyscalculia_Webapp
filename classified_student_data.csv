@@ -1,0 +1,1501 @@
+student_id,question_id,question_type,time_spent,accuracy,performance_category
+1,1,arithmetic,34.96714153011233,0,Struggling
+1,2,arithmetic,28.617356988288154,1,Mastered
+1,3,arithmetic,36.47688538100692,1,Needs Improvement
+1,4,arithmetic,45.23029856408026,0,Struggling
+1,5,arithmetic,27.65846625276664,0,Struggling
+1,6,geometry,27.658630430508197,1,Mastered
+1,7,geometry,45.79212815507391,1,Needs Improvement
+1,8,geometry,37.67434729152909,1,Needs Improvement
+1,9,geometry,25.30525614065048,1,Mastered
+1,10,geometry,35.42560043585965,1,Needs Improvement
+1,11,number_sequence,25.365823071875376,1,Mastered
+1,12,number_sequence,25.34270246429743,0,Struggling
+1,13,number_sequence,32.41962271566034,1,Mastered
+1,14,number_sequence,10.86719755342202,1,Mastered
+1,15,number_sequence,12.750821674869671,0,Struggling
+2,1,arithmetic,24.377124707590276,0,Struggling
+2,2,arithmetic,19.87168879665576,1,Mastered
+2,3,arithmetic,33.142473325952736,1,Mastered
+2,4,arithmetic,20.91975924478789,1,Mastered
+2,5,arithmetic,15.876962986647085,1,Mastered
+2,6,geometry,44.65648768921554,1,Needs Improvement
+2,7,geometry,27.742236995134643,1,Mastered
+2,8,geometry,30.67528204687924,1,Mastered
+2,9,geometry,15.752518137865431,1,Mastered
+2,10,geometry,24.55617275474817,0,Struggling
+2,11,number_sequence,31.10922589709866,1,Mastered
+2,12,number_sequence,18.490064225776973,1,Mastered
+2,13,number_sequence,33.75698018345672,1,Mastered
+2,14,number_sequence,23.99361310081195,1,Mastered
+2,15,number_sequence,27.083062502067232,1,Mastered
+3,1,arithmetic,23.98293387770603,0,Struggling
+3,2,arithmetic,48.522781845089376,1,Needs Improvement
+3,3,arithmetic,29.865027752620662,1,Mastered
+3,4,arithmetic,19.422890710441,0,Struggling
+3,5,arithmetic,38.225449121031886,0,Struggling
+3,6,geometry,17.791563500289776,1,Mastered
+3,7,geometry,32.08863595004755,0,Struggling
+3,8,geometry,10.403298761202244,1,Mastered
+3,9,geometry,16.718139511015693,0,Struggling
+3,10,geometry,31.968612358691235,1,Mastered
+3,11,number_sequence,37.38466579995411,0,Struggling
+3,12,number_sequence,31.713682811899705,1,Mastered
+3,13,number_sequence,28.843517176117597,1,Mastered
+3,14,number_sequence,26.988963044107116,1,Mastered
+3,15,number_sequence,15.214780096325724,0,Struggling
+4,1,arithmetic,22.801557916052914,1,Mastered
+4,2,arithmetic,25.393612290402125,1,Mastered
+4,3,arithmetic,40.57122226218915,1,Needs Improvement
+4,4,arithmetic,33.43618289568462,0,Struggling
+4,5,arithmetic,12.36959844637266,0,Struggling
+4,6,geometry,33.24083969394795,1,Mastered
+4,7,geometry,26.149177195836835,1,Mastered
+4,8,geometry,23.230779996940413,1,Mastered
+4,9,geometry,36.11676288840868,1,Needs Improvement
+4,10,geometry,40.30999522495951,1,Needs Improvement
+4,11,number_sequence,39.31280119116199,0,Struggling
+4,12,number_sequence,21.60782476777361,1,Mastered
+4,13,number_sequence,26.907876241487852,0,Struggling
+4,14,number_sequence,33.31263431403564,1,Mastered
+4,15,number_sequence,39.75545127122359,1,Needs Improvement
+5,1,arithmetic,25.2082576215471,1,Mastered
+5,2,arithmetic,28.143410233361827,0,Struggling
+5,3,arithmetic,18.93665025993972,0,Struggling
+5,4,arithmetic,18.03793375919329,0,Struggling
+5,5,arithmetic,38.125258223941984,0,Struggling
+5,6,geometry,43.56240028570823,0,Struggling
+5,7,geometry,29.27989878419666,1,Mastered
+5,8,geometry,40.03532897892024,0,Struggling
+5,9,geometry,33.61636025047634,0,Struggling
+5,10,geometry,23.54880245394876,1,Mastered
+5,11,number_sequence,33.61395605508414,1,Mastered
+5,12,number_sequence,45.38036566465969,1,Needs Improvement
+5,13,number_sequence,29.641739608900483,0,Struggling
+5,14,number_sequence,45.64643655814006,1,Needs Improvement
+5,15,number_sequence,5.0,0,Struggling
+6,1,arithmetic,38.21902504375224,0,Struggling
+6,2,arithmetic,30.87047068238171,1,Mastered
+6,3,arithmetic,27.009926495341325,0,Struggling
+6,4,arithmetic,30.917607765355022,1,Mastered
+6,5,arithmetic,10.124310853991071,1,Mastered
+6,6,geometry,27.80328112162488,1,Mastered
+6,7,geometry,33.57112571511746,1,Mastered
+6,8,geometry,44.77894044741516,0,Struggling
+6,9,geometry,24.81729781726353,1,Mastered
+6,10,geometry,21.91506397106812,1,Mastered
+6,11,number_sequence,24.98242956415464,1,Mastered
+6,12,number_sequence,39.15402117702074,1,Needs Improvement
+6,13,number_sequence,33.287511096596845,0,Struggling
+6,14,number_sequence,24.702397962329613,1,Mastered
+6,15,number_sequence,35.13267433113356,0,Struggling
+7,1,arithmetic,30.970775493480403,1,Mastered
+7,2,arithmetic,39.68644990532889,1,Needs Improvement
+7,3,arithmetic,22.979469061226474,0,Struggling
+7,4,arithmetic,26.72337853402232,1,Mastered
+7,5,arithmetic,26.078918468678424,0,Struggling
+7,6,geometry,15.364850518678814,1,Mastered
+7,7,geometry,32.96120277064576,1,Mastered
+7,8,geometry,32.610552721798896,1,Mastered
+7,9,geometry,30.051134566424608,1,Mastered
+7,10,geometry,27.65412866624853,1,Mastered
+7,11,number_sequence,15.846292579495858,0,Struggling
+7,12,number_sequence,25.79354677234641,0,Struggling
+7,13,number_sequence,26.572854834732304,0,Struggling
+7,14,number_sequence,21.97722730778381,0,Struggling
+7,15,number_sequence,28.38714288333991,1,Mastered
+8,1,arithmetic,34.040508568145384,1,Mastered
+8,2,arithmetic,48.8618590121053,1,Needs Improvement
+8,3,arithmetic,31.74577812831839,0,Struggling
+8,4,arithmetic,32.57550390722764,1,Mastered
+8,5,arithmetic,29.255540842338327,1,Mastered
+8,6,geometry,10.812287847009586,0,Struggling
+8,7,geometry,29.73486124550783,1,Mastered
+8,8,geometry,30.602302099410263,1,Mastered
+8,9,geometry,54.63242112485286,0,Struggling
+8,10,geometry,28.07639035218877,1,Mastered
+8,11,number_sequence,33.015473423336125,1,Mastered
+8,12,number_sequence,29.652882302947567,0,Struggling
+8,13,number_sequence,18.31321962380468,1,Mastered
+8,14,number_sequence,41.42822814515021,1,Needs Improvement
+8,15,number_sequence,37.51933032686775,1,Needs Improvement
+9,1,arithmetic,37.91031947043047,1,Needs Improvement
+9,2,arithmetic,20.90612545205261,1,Mastered
+9,3,arithmetic,44.02794310936099,1,Needs Improvement
+9,4,arithmetic,15.981489372077192,1,Mastered
+9,5,arithmetic,35.868570938002705,0,Struggling
+9,6,geometry,51.90455625809979,1,Needs Improvement
+9,7,geometry,20.09463674869312,1,Mastered
+9,8,geometry,24.33702270397228,1,Mastered
+9,9,geometry,30.996513650876413,0,Struggling
+9,10,geometry,24.965243458838007,1,Mastered
+9,11,number_sequence,14.493365689338674,0,Struggling
+9,12,number_sequence,30.685629748060272,0,Struggling
+9,13,number_sequence,19.37696286273895,0,Struggling
+9,14,number_sequence,34.73592430635182,1,Mastered
+9,15,number_sequence,20.80575765766197,1,Mastered
+10,1,arithmetic,45.4993440501754,1,Needs Improvement
+10,2,arithmetic,22.167467076637628,0,Struggling
+10,3,arithmetic,26.779384837943244,1,Mastered
+10,4,arithmetic,38.135172173696695,1,Needs Improvement
+10,5,arithmetic,17.69135683566045,1,Mastered
+10,6,geometry,32.27459934604129,0,Struggling
+10,7,geometry,43.07142754282428,1,Needs Improvement
+10,8,geometry,13.925167654387725,1,Mastered
+10,9,geometry,31.846338585323043,1,Mastered
+10,10,geometry,32.598827942484235,0,Struggling
+10,11,number_sequence,37.8182287177731,0,Struggling
+10,12,number_sequence,17.63049289121918,1,Mastered
+10,13,number_sequence,16.795433869157236,1,Mastered
+10,14,number_sequence,35.21941565616898,1,Needs Improvement
+10,15,number_sequence,32.96984673233186,1,Mastered
+11,1,arithmetic,32.504928503458764,0,Struggling
+11,2,arithmetic,33.46448209496975,1,Mastered
+11,3,arithmetic,23.199752784215093,1,Mastered
+11,4,arithmetic,32.322536971610035,1,Mastered
+11,5,arithmetic,32.93072473298681,1,Mastered
+11,6,geometry,22.85648581973632,1,Mastered
+11,7,geometry,48.65774511144757,0,Struggling
+11,8,geometry,34.73832920911788,1,Mastered
+11,9,geometry,18.086965027973516,0,Struggling
+11,10,geometry,36.5655360863383,1,Needs Improvement
+11,11,number_sequence,20.253183297726785,1,Mastered
+11,12,number_sequence,37.87084603742452,1,Needs Improvement
+11,13,number_sequence,41.58595579007404,1,Needs Improvement
+11,14,number_sequence,21.79317681648289,1,Mastered
+11,15,number_sequence,39.63376129244322,1,Needs Improvement
+12,1,arithmetic,34.12780926936498,1,Mastered
+12,2,arithmetic,38.2206015999449,0,Struggling
+12,3,arithmetic,48.96792982653948,1,Needs Improvement
+12,4,arithmetic,27.546118839971296,1,Mastered
+12,5,arithmetic,22.462638356425103,1,Mastered
+12,6,geometry,21.104855703744768,1,Mastered
+12,7,geometry,21.841897150345616,1,Mastered
+12,8,geometry,29.22898290585896,0,Struggling
+12,9,geometry,33.41151974816644,1,Mastered
+12,10,geometry,32.766907993300194,0,Struggling
+12,11,number_sequence,38.27183249036024,0,Struggling
+12,12,number_sequence,30.13001891877907,0,Struggling
+12,13,number_sequence,44.53534077157317,1,Needs Improvement
+12,14,number_sequence,27.35343166762044,1,Mastered
+12,15,number_sequence,57.20169166589619,0,Struggling
+13,1,arithmetic,36.25667347765006,1,Needs Improvement
+13,2,arithmetic,21.42842443583717,1,Mastered
+13,3,arithmetic,19.29107501938888,0,Struggling
+13,4,arithmetic,34.824724152431855,1,Mastered
+13,5,arithmetic,27.76537214674149,1,Mastered
+13,6,geometry,37.14000494092092,1,Needs Improvement
+13,7,geometry,34.73237624573545,1,Mastered
+13,8,geometry,29.27171087343127,1,Mastered
+13,9,geometry,21.53206281931595,1,Mastered
+13,10,geometry,14.851527753141356,1,Mastered
+13,11,number_sequence,25.53485047932979,1,Mastered
+13,12,number_sequence,38.56398794323472,0,Struggling
+13,13,number_sequence,32.14093744130204,1,Mastered
+13,14,number_sequence,17.54261221288012,1,Mastered
+13,15,number_sequence,31.73180925851182,0,Struggling
+14,1,arithmetic,33.85317379728837,0,Struggling
+14,2,arithmetic,21.16142563798867,1,Mastered
+14,3,arithmetic,31.53725105945528,1,Mastered
+14,4,arithmetic,30.58208718446,1,Mastered
+14,5,arithmetic,18.57029702169377,1,Mastered
+14,6,geometry,33.57787360348284,0,Struggling
+14,7,geometry,35.60784526368234,1,Needs Improvement
+14,8,geometry,40.830512431752766,0,Struggling
+14,9,geometry,40.53802052034903,1,Needs Improvement
+14,10,geometry,16.22330632042909,1,Mastered
+14,11,number_sequence,20.621749600848773,1,Mastered
+14,12,number_sequence,35.1503526720866,1,Needs Improvement
+14,13,number_sequence,35.13785950912209,1,Needs Improvement
+14,14,number_sequence,35.15047686306048,1,Needs Improvement
+14,15,number_sequence,68.52731490654722,1,Needs Improvement
+15,1,arithmetic,35.70890510693167,1,Needs Improvement
+15,2,arithmetic,41.35565640180599,1,Needs Improvement
+15,3,arithmetic,39.54001763493203,1,Needs Improvement
+15,4,arithmetic,36.51391251305798,1,Needs Improvement
+15,5,arithmetic,26.847307553596544,1,Mastered
+15,6,geometry,37.58969220493268,0,Struggling
+15,7,geometry,22.27174785462428,1,Mastered
+15,8,geometry,27.63181393259991,1,Mastered
+15,9,geometry,25.146364521708964,0,Struggling
+15,10,geometry,30.818741393863224,0,Struggling
+15,11,number_sequence,53.146585666735085,0,Struggling
+15,12,number_sequence,11.32734807408252,1,Mastered
+15,13,number_sequence,36.86260190374514,1,Needs Improvement
+15,14,number_sequence,13.872841288103483,1,Mastered
+15,15,number_sequence,25.280681342105662,1,Mastered
+16,1,arithmetic,40.889505969673664,1,Needs Improvement
+16,2,arithmetic,30.642800190954627,1,Mastered
+16,3,arithmetic,19.222552220706937,1,Mastered
+16,4,arithmetic,22.84696290740032,1,Mastered
+16,5,arithmetic,36.79597748934676,1,Needs Improvement
+16,6,geometry,22.696333682828637,1,Mastered
+16,7,geometry,32.16458589581975,0,Struggling
+16,8,geometry,30.455718399038137,1,Mastered
+16,9,geometry,23.48399652394183,1,Mastered
+16,10,geometry,51.439440893253256,1,Needs Improvement
+16,11,number_sequence,36.33919022318011,0,Struggling
+16,12,number_sequence,9.74857413342393,0,Struggling
+16,13,number_sequence,31.86454314769428,1,Mastered
+16,14,number_sequence,23.38213535231612,0,Struggling
+16,15,number_sequence,38.52433334796224,1,Needs Improvement
+17,1,arithmetic,22.074792615672997,0,Struggling
+17,2,arithmetic,28.85263558533101,1,Mastered
+17,3,arithmetic,35.049872789804574,1,Needs Improvement
+17,4,arithmetic,38.657551941701215,1,Needs Improvement
+17,5,arithmetic,17.997035929442237,1,Mastered
+17,6,geometry,26.65498764159052,0,Struggling
+17,7,geometry,25.25054688839044,0,Struggling
+17,8,geometry,23.46670767426288,1,Mastered
+17,9,geometry,47.65454240281097,1,Needs Improvement
+17,10,geometry,34.04981710960956,1,Mastered
+17,11,number_sequence,17.391160456649548,1,Mastered
+17,12,number_sequence,39.17861947054776,1,Needs Improvement
+17,13,number_sequence,51.22156197012633,1,Needs Improvement
+17,14,number_sequence,40.32465260551147,1,Needs Improvement
+17,15,number_sequence,14.806300340459869,0,Struggling
+18,1,arithmetic,25.157659271337486,1,Mastered
+18,2,arithmetic,42.66911149186623,1,Needs Improvement
+18,3,arithmetic,22.923305343812192,1,Mastered
+18,4,arithmetic,34.43819428146229,0,Struggling
+18,5,arithmetic,37.74634053429337,1,Needs Improvement
+18,6,geometry,20.73069528421917,1,Mastered
+18,7,geometry,29.404746439382,1,Mastered
+18,8,geometry,5.0,1,Mastered
+18,9,geometry,19.756123586657104,1,Mastered
+18,10,geometry,27.4743184860684,1,Mastered
+18,11,number_sequence,17.522168180351507,0,Struggling
+18,12,number_sequence,46.32411303931635,1,Needs Improvement
+18,13,number_sequence,15.698586220393674,0,Struggling
+18,14,number_sequence,25.59955513303016,1,Mastered
+18,15,number_sequence,31.307405772860918,1,Mastered
+19,1,arithmetic,44.412732890661154,0,Struggling
+19,2,arithmetic,15.641378488205609,1,Mastered
+19,3,arithmetic,41.63163752154959,0,Struggling
+19,4,arithmetic,30.10233061019587,1,Mastered
+19,5,arithmetic,20.18491348952049,1,Mastered
+19,6,geometry,34.62103474263271,1,Mastered
+19,7,geometry,31.990596955734706,0,Struggling
+19,8,geometry,23.997831228412053,1,Mastered
+19,9,geometry,30.69802084990019,1,Mastered
+19,10,geometry,26.1468640313824,1,Mastered
+19,11,number_sequence,31.13517345251248,1,Mastered
+19,12,number_sequence,36.62130674521047,0,Struggling
+19,13,number_sequence,45.86016816145352,1,Needs Improvement
+19,14,number_sequence,17.62184501173151,0,Struggling
+19,15,number_sequence,51.330333746562665,1,Needs Improvement
+20,1,arithmetic,10.479122004774982,1,Mastered
+20,2,arithmetic,28.482149049644168,0,Struggling
+20,3,arithmetic,35.883172064845766,0,Struggling
+20,4,arithmetic,32.809918677350325,0,Struggling
+20,5,arithmetic,23.773004801794063,1,Mastered
+20,6,geometry,27.918777496427246,1,Mastered
+20,7,geometry,25.069990653411672,1,Mastered
+20,8,geometry,24.106352430557884,0,Struggling
+20,9,geometry,38.496020970210246,0,Struggling
+20,10,geometry,33.57015485965047,1,Mastered
+20,11,number_sequence,23.07090404739346,0,Struggling
+20,12,number_sequence,38.9959987543325,1,Needs Improvement
+20,13,number_sequence,33.072995208766095,1,Mastered
+20,14,number_sequence,38.1286211883896,1,Needs Improvement
+20,15,number_sequence,36.29628841923612,1,Needs Improvement
+21,1,arithmetic,21.71004989077928,1,Mastered
+21,2,arithmetic,24.398189598030307,0,Struggling
+21,3,arithmetic,37.472936051232615,0,Struggling
+21,4,arithmetic,36.10370265433465,0,Struggling
+21,5,arithmetic,29.79098406035852,1,Mastered
+21,6,geometry,31.17327383308782,0,Struggling
+21,7,geometry,42.77664895788425,1,Needs Improvement
+21,8,geometry,24.084286111641703,1,Mastered
+21,9,geometry,35.470973811700375,1,Needs Improvement
+21,10,geometry,27.97807347566106,1,Mastered
+21,11,number_sequence,27.8231879677278,0,Struggling
+21,12,number_sequence,40.9877685198719,1,Needs Improvement
+21,13,number_sequence,38.2541634898803,1,Needs Improvement
+21,14,number_sequence,38.13509636000639,0,Struggling
+21,15,number_sequence,43.05478807154329,0,Struggling
+22,1,arithmetic,30.210038416327592,1,Mastered
+22,2,arithmetic,36.81952971294964,1,Needs Improvement
+22,3,arithmetic,26.89733243406544,1,Mastered
+22,4,arithmetic,33.24166352488442,1,Mastered
+22,5,arithmetic,28.698569456323156,1,Mastered
+22,6,geometry,30.969959649927183,1,Mastered
+22,7,geometry,35.95157025436914,1,Needs Improvement
+22,8,geometry,21.817793167665275,1,Mastered
+22,9,geometry,50.92387275685461,1,Needs Improvement
+22,10,geometry,19.93982618500298,1,Mastered
+22,11,number_sequence,17.85811387212268,1,Mastered
+22,12,number_sequence,41.58110873500068,1,Needs Improvement
+22,13,number_sequence,37.91662693962936,1,Needs Improvement
+22,14,number_sequence,36.24119817052155,1,Needs Improvement
+22,15,number_sequence,36.2834550926428,1,Needs Improvement
+23,1,arithmetic,29.877532271530853,1,Mastered
+23,2,arithmetic,21.027456285141685,1,Mastered
+23,3,arithmetic,30.758045581937264,0,Struggling
+23,4,arithmetic,23.228382884878883,1,Mastered
+23,5,arithmetic,39.75119733417751,0,Struggling
+23,6,geometry,28.52942618497861,1,Mastered
+23,7,geometry,21.745028032074885,1,Mastered
+23,8,geometry,26.786141583470062,1,Mastered
+23,9,geometry,34.12931454275624,1,Mastered
+23,10,geometry,24.36275447196025,1,Mastered
+23,11,number_sequence,21.777796044335687,1,Mastered
+23,12,number_sequence,32.436872114919126,1,Mastered
+23,13,number_sequence,32.44966571108723,1,Mastered
+23,14,number_sequence,24.9305682462887,0,Struggling
+23,15,number_sequence,25.28961694381677,0,Struggling
+24,1,arithmetic,32.32049937357636,1,Mastered
+24,2,arithmetic,15.519156585026758,1,Mastered
+24,3,arithmetic,15.925362256234449,0,Struggling
+24,4,arithmetic,22.81555778747564,0,Struggling
+24,5,arithmetic,27.86552848288153,0,Struggling
+24,6,geometry,33.10907565598005,1,Mastered
+24,7,geometry,44.75356216949552,1,Needs Improvement
+24,8,geometry,38.576596232020194,1,Needs Improvement
+24,9,geometry,28.40061470036573,0,Struggling
+24,10,geometry,29.809837920973116,1,Mastered
+24,11,number_sequence,19.97470635362191,0,Struggling
+24,12,number_sequence,29.8148686400761,0,Struggling
+24,13,number_sequence,27.113413610798617,1,Mastered
+24,14,number_sequence,33.227185603380896,0,Struggling
+24,15,number_sequence,21.72769056447677,0,Struggling
+25,1,arithmetic,35.193465142411725,0,Struggling
+25,2,arithmetic,45.32738913002578,0,Struggling
+25,3,arithmetic,28.912398515431423,0,Struggling
+25,4,arithmetic,34.01711722098941,1,Mastered
+25,5,arithmetic,36.90143991711113,1,Needs Improvement
+25,6,geometry,25.98779528114164,1,Mastered
+25,7,geometry,32.24092481810417,1,Mastered
+25,8,geometry,30.12592400781795,0,Struggling
+25,9,geometry,30.97676098548832,1,Mastered
+25,10,geometry,22.269902161445337,1,Mastered
+25,11,number_sequence,30.245101742589423,0,Struggling
+25,12,number_sequence,34.979982912454496,1,Mastered
+25,13,number_sequence,44.51143607795042,0,Struggling
+25,14,number_sequence,39.59270826085207,1,Needs Improvement
+25,15,number_sequence,51.53182457511557,1,Needs Improvement
+26,1,arithmetic,22.326524371119504,1,Mastered
+26,2,arithmetic,38.72320636720679,1,Needs Improvement
+26,3,arithmetic,31.83342005738352,1,Mastered
+26,4,arithmetic,51.89802933217672,1,Needs Improvement
+26,5,arithmetic,21.917017146448487,0,Struggling
+26,6,geometry,21.60278157819224,0,Struggling
+26,7,geometry,24.00607354555978,1,Mastered
+26,8,geometry,8.76104275690193,1,Mastered
+26,9,geometry,24.74244978319239,1,Mastered
+26,10,geometry,22.40867338446302,1,Mastered
+26,11,number_sequence,31.50393786476208,1,Mastered
+26,12,number_sequence,33.41755975777159,1,Mastered
+26,13,number_sequence,48.76170839215887,1,Needs Improvement
+26,14,number_sequence,39.5042383818605,1,Needs Improvement
+26,15,number_sequence,24.23096344337597,1,Mastered
+27,1,arithmetic,21.01585328651642,1,Mastered
+27,2,arithmetic,34.919191715065054,0,Struggling
+27,3,arithmetic,16.797667929793576,1,Mastered
+27,4,arithmetic,48.31458765854354,0,Struggling
+27,5,arithmetic,41.79440120721287,0,Struggling
+27,6,geometry,25.308243478952956,0,Struggling
+27,7,geometry,12.868654709091224,1,Mastered
+27,8,geometry,43.53872374165413,1,Needs Improvement
+27,9,geometry,28.85460154747382,0,Struggling
+27,10,geometry,42.378163119734616,1,Needs Improvement
+27,11,number_sequence,14.055723412056327,1,Mastered
+27,12,number_sequence,24.006249770462272,1,Mastered
+27,13,number_sequence,30.052436997181832,0,Struggling
+27,14,number_sequence,30.469805937647426,1,Mastered
+27,15,number_sequence,25.499345285207564,1,Mastered
+28,1,arithmetic,36.228499323474985,0,Struggling
+28,2,arithmetic,19.323795706174057,0,Struggling
+28,3,arithmetic,28.576205149787064,1,Mastered
+28,4,arithmetic,31.20295631711899,1,Mastered
+28,5,arithmetic,35.14438834058749,1,Needs Improvement
+28,6,geometry,37.1161487808889,1,Needs Improvement
+28,7,geometry,18.753579081621307,1,Mastered
+28,8,geometry,14.658858292643778,1,Mastered
+28,9,geometry,42.77676821898509,0,Struggling
+28,10,geometry,33.32314011979592,1,Mastered
+28,11,number_sequence,22.515134634434464,1,Mastered
+28,12,number_sequence,45.51151975522523,1,Needs Improvement
+28,13,number_sequence,31.156746342928585,1,Mastered
+28,14,number_sequence,41.792971840638266,1,Needs Improvement
+28,15,number_sequence,30.67518481410109,0,Struggling
+29,1,arithmetic,50.60747924881987,1,Needs Improvement
+29,2,arithmetic,47.55340842443204,0,Struggling
+29,3,arithmetic,27.510358515209266,1,Mastered
+29,4,arithmetic,39.71570950954356,0,Struggling
+29,5,arithmetic,36.45375949585147,0,Struggling
+29,6,geometry,43.68631557532349,1,Needs Improvement
+29,7,geometry,20.350765394198955,0,Struggling
+29,8,geometry,36.86051459998439,1,Needs Improvement
+29,9,geometry,40.58424486849588,1,Needs Improvement
+29,10,geometry,12.412605135768857,0,Struggling
+29,11,number_sequence,18.16741487334225,0,Struggling
+29,12,number_sequence,9.607678222398995,1,Mastered
+29,13,number_sequence,27.305931655554424,1,Mastered
+29,14,number_sequence,37.17542255795962,1,Needs Improvement
+29,15,number_sequence,45.02357052096028,1,Needs Improvement
+30,1,arithmetic,30.740947804197752,1,Mastered
+30,2,arithmetic,46.28615545571292,1,Needs Improvement
+30,3,arithmetic,16.198985417851084,1,Mastered
+30,4,arithmetic,12.966175606448452,1,Mastered
+30,5,arithmetic,29.44452301103381,0,Struggling
+30,6,geometry,33.840654489393074,1,Mastered
+30,7,geometry,29.67305251905907,1,Mastered
+30,8,geometry,9.325578999601234,1,Mastered
+30,9,geometry,29.108799604872114,1,Mastered
+30,10,geometry,16.95530499495147,1,Mastered
+30,11,number_sequence,36.69672548830039,1,Needs Improvement
+30,12,number_sequence,33.66598246096848,1,Mastered
+30,13,number_sequence,20.60120213672645,1,Mastered
+30,14,number_sequence,24.861330826633065,1,Mastered
+30,15,number_sequence,19.407864781110483,1,Mastered
+31,1,arithmetic,29.37320902726828,1,Mastered
+31,2,arithmetic,39.551423205012384,1,Needs Improvement
+31,3,arithmetic,20.14273953664456,1,Mastered
+31,4,arithmetic,35.040465155178445,1,Needs Improvement
+31,5,arithmetic,24.69742381627559,1,Mastered
+31,6,geometry,22.07127167737656,0,Struggling
+31,7,geometry,28.92969640045442,1,Mastered
+31,8,geometry,19.647576775806257,0,Struggling
+31,9,geometry,24.463506946528177,1,Mastered
+31,10,geometry,18.02122107411152,1,Mastered
+31,11,number_sequence,49.64725132916389,0,Struggling
+31,12,number_sequence,30.352635519717285,0,Struggling
+31,13,number_sequence,23.002744920074143,1,Mastered
+31,14,number_sequence,32.13979910734222,1,Mastered
+31,15,number_sequence,28.876719503091703,1,Mastered
+32,1,arithmetic,27.79030400466777,0,Struggling
+32,2,arithmetic,36.14166700043425,1,Needs Improvement
+32,3,arithmetic,37.57507710047305,1,Needs Improvement
+32,4,arithmetic,24.694988523894725,1,Mastered
+32,5,arithmetic,24.2418175935532,1,Mastered
+32,6,geometry,27.24948302848356,1,Mastered
+32,7,geometry,6.980788352644151,0,Struggling
+32,8,geometry,14.848089378014478,1,Mastered
+32,9,geometry,43.66874267444525,1,Needs Improvement
+32,10,geometry,46.449677135012834,1,Needs Improvement
+32,11,number_sequence,27.509639604436217,0,Struggling
+32,12,number_sequence,35.765569630557664,1,Needs Improvement
+32,13,number_sequence,33.112501545435364,0,Struggling
+32,14,number_sequence,60.78880808455238,1,Needs Improvement
+32,15,number_sequence,41.195749114345766,1,Needs Improvement
+33,1,arithmetic,28.720824085192334,1,Mastered
+33,2,arithmetic,20.444595593995743,0,Struggling
+33,3,arithmetic,13.935536797424277,0,Struggling
+33,4,arithmetic,32.03463635867223,1,Mastered
+33,5,arithmetic,22.436492547156966,0,Struggling
+33,6,geometry,15.777462904023258,0,Struggling
+33,7,geometry,23.534271157574736,1,Mastered
+33,8,geometry,19.18451996385605,1,Mastered
+33,9,geometry,46.871416350725646,0,Struggling
+33,10,geometry,38.816397569494505,1,Needs Improvement
+33,11,number_sequence,29.920273586833822,0,Struggling
+33,12,number_sequence,44.79944138890026,1,Needs Improvement
+33,13,number_sequence,30.773683076476186,1,Mastered
+33,14,number_sequence,21.38715798671736,1,Mastered
+33,15,number_sequence,45.23124077269657,1,Needs Improvement
+34,1,arithmetic,35.38910043684659,1,Needs Improvement
+34,2,arithmetic,19.62753845673544,1,Mastered
+34,3,arithmetic,28.09661321916392,0,Struggling
+34,4,arithmetic,21.24381746615243,1,Mastered
+34,5,arithmetic,16.17200269035664,1,Mastered
+34,6,geometry,39.26177547531641,1,Needs Improvement
+34,7,geometry,49.094166404701305,1,Needs Improvement
+34,8,geometry,16.01432426180859,1,Mastered
+34,9,geometry,35.62969236690571,0,Struggling
+34,10,geometry,23.49357430878173,1,Mastered
+34,11,number_sequence,25.12874616235304,1,Mastered
+34,12,number_sequence,24.07606075761131,1,Mastered
+34,13,number_sequence,21.36009230320184,1,Mastered
+34,14,number_sequence,30.48521627944827,1,Mastered
+34,15,number_sequence,21.69049883588962,1,Mastered
+35,1,arithmetic,32.704568257798385,0,Struggling
+35,2,arithmetic,29.49761890550863,0,Struggling
+35,3,arithmetic,27.610519531335903,0,Struggling
+35,4,arithmetic,20.924363379584022,1,Mastered
+35,5,arithmetic,24.232286694316677,0,Struggling
+35,6,geometry,37.55391225825756,1,Needs Improvement
+35,7,geometry,35.009171876243805,1,Needs Improvement
+35,8,geometry,20.22444755201449,1,Mastered
+35,9,geometry,30.993323054292254,1,Mastered
+35,10,geometry,37.51387123371789,0,Struggling
+35,11,number_sequence,13.305947188786284,1,Mastered
+35,12,number_sequence,35.43360192379935,1,Needs Improvement
+35,13,number_sequence,23.37376241054153,1,Mastered
+35,14,number_sequence,35.70598668593159,1,Needs Improvement
+35,15,number_sequence,22.36740843457483,1,Mastered
+36,1,arithmetic,11.951178993354809,1,Mastered
+36,2,arithmetic,13.724575621168372,1,Mastered
+36,3,arithmetic,30.48084946661382,1,Mastered
+36,4,arithmetic,32.59722501721482,1,Mastered
+36,5,arithmetic,20.95683374895592,0,Struggling
+36,6,geometry,36.38592458777374,1,Needs Improvement
+36,7,geometry,13.3847993773104,0,Struggling
+36,8,geometry,29.339202013526837,1,Mastered
+36,9,geometry,17.889838002375434,1,Mastered
+36,10,geometry,23.48163892197841,0,Struggling
+36,11,number_sequence,30.47398671316414,1,Mastered
+36,12,number_sequence,21.39586634716048,1,Mastered
+36,13,number_sequence,26.154444557701748,1,Mastered
+36,14,number_sequence,40.0629280921444,1,Needs Improvement
+36,15,number_sequence,24.231081304768512,1,Mastered
+37,1,arithmetic,38.35692112065142,0,Struggling
+37,2,arithmetic,18.70293145342382,1,Mastered
+37,3,arithmetic,35.298041779152825,0,Struggling
+37,4,arithmetic,44.41568620657901,1,Needs Improvement
+37,5,arithmetic,5.283554998727105,0,Struggling
+37,6,geometry,22.031047445295236,1,Mastered
+37,7,geometry,35.7707212718054,1,Needs Improvement
+37,8,geometry,27.969546139570078,0,Struggling
+37,9,geometry,33.71145873371309,1,Mastered
+37,10,geometry,23.960148132841795,1,Mastered
+37,11,number_sequence,30.865897874729,1,Mastered
+37,12,number_sequence,28.443227646079205,1,Mastered
+37,13,number_sequence,41.67782061659807,1,Needs Improvement
+37,14,number_sequence,32.54420843301213,1,Mastered
+37,15,number_sequence,33.37602662075202,0,Struggling
+38,1,arithmetic,25.881230338775325,0,Struggling
+38,2,arithmetic,25.123937759275066,1,Mastered
+38,3,arithmetic,25.67441812180379,1,Mastered
+38,4,arithmetic,33.944521423782966,1,Mastered
+38,5,arithmetic,25.79015519179737,1,Mastered
+38,6,geometry,32.89774856896413,1,Mastered
+38,7,geometry,50.75400798645439,1,Needs Improvement
+38,8,geometry,38.711247034316926,1,Needs Improvement
+38,9,geometry,26.73976467832159,1,Mastered
+38,10,geometry,42.01213922163944,1,Needs Improvement
+38,11,number_sequence,25.919246269784487,1,Mastered
+38,12,number_sequence,9.61875464822146,1,Mastered
+38,13,number_sequence,19.91913689082596,1,Mastered
+38,14,number_sequence,11.292080789741444,0,Struggling
+38,15,number_sequence,26.484865159586917,0,Struggling
+39,1,arithmetic,30.18418379189552,1,Mastered
+39,2,arithmetic,46.76437312275283,1,Needs Improvement
+39,3,arithmetic,33.269273737641626,1,Mastered
+39,4,arithmetic,27.80899471191136,1,Mastered
+39,5,arithmetic,38.294055811834895,0,Struggling
+39,6,geometry,7.88864690992115,1,Mastered
+39,7,geometry,32.356145581085656,1,Mastered
+39,8,geometry,37.708651938869664,1,Needs Improvement
+39,9,geometry,15.214137542201584,1,Mastered
+39,10,geometry,41.43754043206929,1,Needs Improvement
+39,11,number_sequence,33.38496407494414,0,Struggling
+39,12,number_sequence,25.847120860991986,1,Mastered
+39,13,number_sequence,36.32781866106285,1,Needs Improvement
+39,14,number_sequence,52.70692857804396,1,Needs Improvement
+39,15,number_sequence,31.818662550584957,1,Mastered
+40,1,arithmetic,32.48220586300336,0,Struggling
+40,2,arithmetic,25.40639100459756,0,Struggling
+40,3,arithmetic,21.50155630535208,1,Mastered
+40,4,arithmetic,38.30335816544245,1,Needs Improvement
+40,5,arithmetic,21.439161740911327,0,Struggling
+40,6,geometry,30.715662372193925,0,Struggling
+40,7,geometry,25.223425532348838,1,Mastered
+40,8,geometry,34.78979825746392,0,Struggling
+40,9,geometry,33.33662105286948,1,Mastered
+40,10,geometry,40.375399442579,1,Needs Improvement
+40,11,number_sequence,24.89983601145253,1,Mastered
+40,12,number_sequence,27.301250647066286,0,Struggling
+40,13,number_sequence,20.21236284217693,0,Struggling
+40,14,number_sequence,25.55706739923888,1,Mastered
+40,15,number_sequence,33.77300493044852,1,Mastered
+41,1,arithmetic,37.56988616645352,1,Needs Improvement
+41,2,arithmetic,20.778346758223748,0,Struggling
+41,3,arithmetic,38.6960592010566,1,Needs Improvement
+41,4,arithmetic,43.55637858804951,1,Needs Improvement
+41,5,arithmetic,34.13434903223701,1,Mastered
+41,6,geometry,48.76795812558066,1,Needs Improvement
+41,7,geometry,22.26210800896427,1,Mastered
+41,8,geometry,17.55345296688583,1,Mastered
+41,9,geometry,12.212797510957213,0,Struggling
+41,10,geometry,44.96044311489183,1,Needs Improvement
+41,11,number_sequence,36.54365656354058,0,Struggling
+41,12,number_sequence,29.44415329089545,1,Mastered
+41,13,number_sequence,32.799686263198204,1,Mastered
+41,14,number_sequence,18.745109527016236,0,Struggling
+41,15,number_sequence,54.45751979616826,1,Needs Improvement
+42,1,arithmetic,31.292211819752275,0,Struggling
+42,2,arithmetic,31.093947946048928,1,Mastered
+42,3,arithmetic,37.25766623898692,1,Needs Improvement
+42,4,arithmetic,34.810092317367136,0,Struggling
+42,5,arithmetic,32.23884024279131,1,Mastered
+42,6,geometry,22.095255445546883,1,Mastered
+42,7,geometry,34.71468357135996,0,Struggling
+42,8,geometry,48.82024496475034,0,Struggling
+42,9,geometry,43.454200461549775,1,Needs Improvement
+42,10,geometry,45.93186626639397,1,Needs Improvement
+42,11,number_sequence,24.88784323568815,1,Mastered
+42,12,number_sequence,20.10395179741419,0,Struggling
+42,13,number_sequence,28.74213079900352,0,Struggling
+42,14,number_sequence,30.557249122886947,1,Mastered
+42,15,number_sequence,40.94191518470949,0,Struggling
+43,1,arithmetic,13.075353702851809,0,Struggling
+43,2,arithmetic,45.29550319460614,0,Struggling
+43,3,arithmetic,28.419921014210107,1,Mastered
+43,4,arithmetic,25.7311893005258,1,Mastered
+43,5,arithmetic,19.878956247398325,1,Mastered
+43,6,geometry,13.451433281342307,1,Mastered
+43,7,geometry,38.231705839619146,1,Needs Improvement
+43,8,geometry,30.73317967188404,1,Mastered
+43,9,geometry,17.10039100258946,0,Struggling
+43,10,geometry,17.04921227936384,1,Mastered
+43,11,number_sequence,26.64215300709872,1,Mastered
+43,12,number_sequence,46.69021525289393,1,Needs Improvement
+43,13,number_sequence,27.40408648636395,1,Mastered
+43,14,number_sequence,14.96857046881894,1,Mastered
+43,15,number_sequence,27.54256935914056,0,Struggling
+44,1,arithmetic,27.272764302523296,1,Mastered
+44,2,arithmetic,5.0,1,Mastered
+44,3,arithmetic,29.45705133482188,1,Mastered
+44,4,arithmetic,27.69065469791322,1,Mastered
+44,5,arithmetic,36.96206364813418,1,Needs Improvement
+44,6,geometry,48.48956094945345,0,Struggling
+44,7,geometry,41.26565029547757,1,Needs Improvement
+44,8,geometry,27.31111309445169,0,Struggling
+44,9,geometry,18.934740912583298,1,Mastered
+44,10,geometry,55.733598032498605,1,Needs Improvement
+44,11,number_sequence,30.592184340144883,1,Mastered
+44,12,number_sequence,30.139292919129463,1,Mastered
+44,13,number_sequence,29.758749128899968,1,Mastered
+44,14,number_sequence,31.980847607678548,0,Struggling
+44,15,number_sequence,28.556395880760576,1,Mastered
+45,1,arithmetic,24.26337993119764,0,Struggling
+45,2,arithmetic,24.53141058759608,1,Mastered
+45,3,arithmetic,29.67246729784001,0,Struggling
+45,4,arithmetic,24.565752288662352,0,Struggling
+45,5,arithmetic,22.87154217322836,1,Mastered
+45,6,geometry,31.06430227691897,0,Struggling
+45,7,geometry,27.450227825791448,1,Mastered
+45,8,geometry,45.039929885826886,1,Needs Improvement
+45,9,geometry,5.0,0,Struggling
+45,10,geometry,40.91506851922462,1,Needs Improvement
+45,11,number_sequence,42.46085192497629,0,Struggling
+45,12,number_sequence,9.266097675918504,0,Struggling
+45,13,number_sequence,26.573124059196516,1,Mastered
+45,14,number_sequence,26.285591340042085,0,Struggling
+45,15,number_sequence,15.924883052821787,1,Mastered
+46,1,arithmetic,22.221833124091248,0,Struggling
+46,2,arithmetic,18.894241545341718,0,Struggling
+46,3,arithmetic,47.52270443423623,1,Needs Improvement
+46,4,arithmetic,39.35678393147461,1,Needs Improvement
+46,5,arithmetic,42.71555094994159,0,Struggling
+46,6,geometry,37.21672064043235,1,Needs Improvement
+46,7,geometry,18.709482287827708,0,Struggling
+46,8,geometry,24.754797337202262,1,Mastered
+46,9,geometry,34.89374561227918,1,Mastered
+46,10,geometry,17.778721911080545,1,Mastered
+46,11,number_sequence,37.12998430172388,1,Needs Improvement
+46,12,number_sequence,27.59674601841865,1,Mastered
+46,13,number_sequence,26.251791924504023,1,Mastered
+46,14,number_sequence,37.10959968203491,1,Needs Improvement
+46,15,number_sequence,34.4426331148604,1,Mastered
+47,1,arithmetic,26.3903383418092,0,Struggling
+47,2,arithmetic,41.59329803364248,1,Needs Improvement
+47,3,arithmetic,19.189366724001022,1,Mastered
+47,4,arithmetic,36.15935606944264,1,Needs Improvement
+47,5,arithmetic,35.93101257968384,1,Needs Improvement
+47,6,geometry,26.904535606860097,1,Mastered
+47,7,geometry,33.26133022242118,0,Struggling
+47,8,geometry,17.48886423614697,0,Struggling
+47,9,geometry,39.24027019206901,1,Needs Improvement
+47,10,geometry,28.15097863557011,1,Mastered
+47,11,number_sequence,24.772769794809605,1,Mastered
+47,12,number_sequence,40.49009225836889,1,Needs Improvement
+47,13,number_sequence,22.95656309457241,1,Mastered
+47,14,number_sequence,15.915387036364404,1,Mastered
+47,15,number_sequence,14.433708264760964,0,Struggling
+48,1,arithmetic,36.06009951345639,0,Struggling
+48,2,arithmetic,17.19570647503717,1,Mastered
+48,3,arithmetic,47.54794181984364,1,Needs Improvement
+48,4,arithmetic,9.18070592116278,0,Struggling
+48,5,arithmetic,46.96456368290038,1,Needs Improvement
+48,6,geometry,32.11017467202618,1,Mastered
+48,7,geometry,29.032868881296075,1,Mastered
+48,8,geometry,24.550809131910505,1,Mastered
+48,9,geometry,33.991361143520706,1,Mastered
+48,10,geometry,29.623652975751515,0,Struggling
+48,11,number_sequence,41.03301882016521,1,Needs Improvement
+48,12,number_sequence,31.1422764866204,1,Mastered
+48,13,number_sequence,31.503017614618777,0,Struggling
+48,14,number_sequence,26.36387787786144,1,Mastered
+48,15,number_sequence,29.430543762789327,1,Mastered
+49,1,arithmetic,33.07801768892059,1,Mastered
+49,2,arithmetic,12.898316073433744,1,Mastered
+49,3,arithmetic,16.51814577894287,0,Struggling
+49,4,arithmetic,37.43264094022715,1,Needs Improvement
+49,5,arithmetic,31.70865438127942,1,Mastered
+49,6,geometry,28.160166636473207,1,Mastered
+49,7,geometry,30.18433933065393,0,Struggling
+49,8,geometry,33.47581705361671,1,Mastered
+49,9,geometry,24.602403196906387,1,Mastered
+49,10,geometry,22.216952745976872,0,Struggling
+49,11,number_sequence,31.958452550976816,0,Struggling
+49,12,number_sequence,20.21627222384968,1,Mastered
+49,13,number_sequence,34.082527557144715,1,Mastered
+49,14,number_sequence,12.974163957621595,1,Mastered
+49,15,number_sequence,40.29155637325644,1,Needs Improvement
+50,1,arithmetic,34.72597482413043,1,Mastered
+50,2,arithmetic,32.56029734313876,1,Mastered
+50,3,arithmetic,39.82690983945514,0,Struggling
+50,4,arithmetic,46.65474444462576,1,Needs Improvement
+50,5,arithmetic,40.1437006501813,0,Struggling
+50,6,geometry,11.591257686683548,1,Mastered
+50,7,geometry,17.204230332642986,0,Struggling
+50,8,geometry,23.75181422304321,0,Struggling
+50,9,geometry,30.260910502108334,1,Mastered
+50,10,geometry,35.17659020469123,0,Struggling
+50,11,number_sequence,22.742561868465344,1,Mastered
+50,12,number_sequence,31.867667644770783,0,Struggling
+50,13,number_sequence,22.44617067646677,1,Mastered
+50,14,number_sequence,23.88482197008052,1,Mastered
+50,15,number_sequence,15.933389031517777,0,Struggling
+51,1,arithmetic,20.76766753889096,0,Struggling
+51,2,arithmetic,16.483153943836662,1,Mastered
+51,3,arithmetic,20.241267470226678,1,Mastered
+51,4,arithmetic,40.5364179660784,1,Needs Improvement
+51,5,arithmetic,20.50601111168057,1,Mastered
+51,6,geometry,56.32382064837391,1,Needs Improvement
+51,7,geometry,34.93317900880889,0,Struggling
+51,8,geometry,31.84836123694874,1,Mastered
+51,9,geometry,21.416422198187867,1,Mastered
+51,10,geometry,37.00309879408992,1,Needs Improvement
+51,11,number_sequence,24.243621737622263,1,Mastered
+51,12,number_sequence,31.220098146453616,1,Mastered
+51,13,number_sequence,55.60084538268795,1,Needs Improvement
+51,14,number_sequence,29.0394010027535,1,Mastered
+51,15,number_sequence,41.49273326285676,1,Needs Improvement
+52,1,arithmetic,22.96823574874113,1,Mastered
+52,2,arithmetic,29.650115095030383,0,Struggling
+52,3,arithmetic,47.7080063563551,0,Struggling
+52,4,arithmetic,23.730329422122324,1,Mastered
+52,5,arithmetic,48.12448557996929,1,Needs Improvement
+52,6,geometry,37.07751935455475,0,Struggling
+52,7,geometry,24.37533224105732,0,Struggling
+52,8,geometry,36.32407739055521,0,Struggling
+52,9,geometry,39.7255444962673,0,Struggling
+52,10,geometry,36.21809962217196,1,Needs Improvement
+52,11,number_sequence,14.297752801095436,1,Mastered
+52,12,number_sequence,22.72862824175132,1,Mastered
+52,13,number_sequence,27.52481364448495,1,Mastered
+52,14,number_sequence,29.255665708999537,0,Struggling
+52,15,number_sequence,36.206720975506784,0,Struggling
+53,1,arithmetic,31.77701000933254,1,Mastered
+53,2,arithmetic,16.64655641289899,1,Mastered
+53,3,arithmetic,33.801978510059634,1,Mastered
+53,4,arithmetic,36.10585745283823,0,Struggling
+53,5,arithmetic,35.5979044793104,1,Needs Improvement
+53,6,geometry,40.807807255546216,1,Needs Improvement
+53,7,geometry,38.33922154548904,1,Needs Improvement
+53,8,geometry,34.59180079228437,1,Mastered
+53,9,geometry,29.29834288541353,1,Mastered
+53,10,geometry,13.390390664840089,1,Mastered
+53,11,number_sequence,34.296182191325855,0,Struggling
+53,12,number_sequence,32.076876871631114,0,Struggling
+53,13,number_sequence,32.715788371953735,0,Struggling
+53,14,number_sequence,17.232514241796906,1,Mastered
+53,15,number_sequence,19.189434595917376,1,Mastered
+54,1,arithmetic,40.53152853332904,1,Needs Improvement
+54,2,arithmetic,29.60444846143345,0,Struggling
+54,3,arithmetic,36.81500697372624,1,Needs Improvement
+54,4,arithmetic,30.283183761304613,1,Mastered
+54,5,arithmetic,30.29756139495745,1,Mastered
+54,6,geometry,39.382838059759976,1,Needs Improvement
+54,7,geometry,24.839552717826265,1,Mastered
+54,8,geometry,30.961207769409835,1,Mastered
+54,9,geometry,25.377247112949576,0,Struggling
+54,10,geometry,25.655037725676845,1,Mastered
+54,11,number_sequence,26.908278765313607,0,Struggling
+54,12,number_sequence,32.22133771633713,0,Struggling
+54,13,number_sequence,25.212513783365225,0,Struggling
+54,14,number_sequence,42.55756125573521,1,Needs Improvement
+54,15,number_sequence,21.053926977804963,1,Mastered
+55,1,arithmetic,28.13128355838641,1,Mastered
+55,2,arithmetic,25.60268941725825,0,Struggling
+55,3,arithmetic,44.46977884353733,1,Needs Improvement
+55,4,arithmetic,31.965547765115748,1,Mastered
+55,5,arithmetic,40.31844539468635,1,Needs Improvement
+55,6,geometry,15.14439626963028,1,Mastered
+55,7,geometry,32.67050265869259,0,Struggling
+55,8,geometry,38.89630795623437,1,Needs Improvement
+55,9,geometry,30.82283989275424,1,Mastered
+55,10,geometry,40.65480375065352,0,Struggling
+55,11,number_sequence,24.82711549899628,1,Mastered
+55,12,number_sequence,44.0934744018558,1,Needs Improvement
+55,13,number_sequence,52.9889812361925,1,Needs Improvement
+55,14,number_sequence,26.37161439560341,0,Struggling
+55,15,number_sequence,25.54497478599228,0,Struggling
+56,1,arithmetic,44.53384477117701,0,Struggling
+56,2,arithmetic,45.79572145730712,1,Needs Improvement
+56,3,arithmetic,24.77139972846732,1,Mastered
+56,4,arithmetic,25.798131829041427,0,Struggling
+56,5,arithmetic,27.182153911394927,1,Mastered
+56,6,geometry,16.55549488965723,1,Mastered
+56,7,geometry,20.813480535158018,0,Struggling
+56,8,geometry,19.95859233247932,1,Mastered
+56,9,geometry,22.322024348958717,1,Mastered
+56,10,geometry,29.653151126132187,0,Struggling
+56,11,number_sequence,32.342147325365204,0,Struggling
+56,12,number_sequence,45.50500492814077,1,Needs Improvement
+56,13,number_sequence,20.01645959261209,1,Mastered
+56,14,number_sequence,39.84322398476584,1,Needs Improvement
+56,15,number_sequence,27.86011155774491,1,Mastered
+57,1,arithmetic,29.50536290347567,0,Struggling
+57,2,arithmetic,36.74819492166604,0,Struggling
+57,3,arithmetic,18.77277978437701,1,Mastered
+57,4,arithmetic,33.82409746184051,0,Struggling
+57,5,arithmetic,31.66452208213056,0,Struggling
+57,6,geometry,34.92451264008149,1,Mastered
+57,7,geometry,32.89168643907818,1,Mastered
+57,8,geometry,54.55300139910894,1,Needs Improvement
+57,9,geometry,23.62260015748684,1,Mastered
+57,10,geometry,24.690030449981823,0,Struggling
+57,11,number_sequence,23.768594735752355,1,Mastered
+57,12,number_sequence,24.44522880839745,0,Struggling
+57,13,number_sequence,23.626128726934823,1,Mastered
+57,14,number_sequence,41.89016531107552,1,Needs Improvement
+57,15,number_sequence,44.20504247989855,1,Needs Improvement
+58,1,arithmetic,24.29253706250524,1,Mastered
+58,2,arithmetic,21.676444268957717,1,Mastered
+58,3,arithmetic,34.71415556386404,0,Struggling
+58,4,arithmetic,24.477769557190285,1,Mastered
+58,5,arithmetic,36.32931817755511,1,Needs Improvement
+58,6,geometry,32.029230208513,0,Struggling
+58,7,geometry,14.84255885002768,1,Mastered
+58,8,geometry,45.47505201330061,1,Needs Improvement
+58,9,geometry,47.95877673095522,0,Struggling
+58,10,geometry,23.872113095156138,1,Mastered
+58,11,number_sequence,26.12298440064016,1,Mastered
+58,12,number_sequence,32.85865390724905,1,Mastered
+58,13,number_sequence,33.34456789987025,1,Mastered
+58,14,number_sequence,36.5854427267283,1,Needs Improvement
+58,15,number_sequence,50.102045387663495,1,Needs Improvement
+59,1,arithmetic,28.230527725059503,1,Mastered
+59,2,arithmetic,22.017027554615463,0,Struggling
+59,3,arithmetic,16.20680771985473,1,Mastered
+59,4,arithmetic,22.69069960058081,1,Mastered
+59,5,arithmetic,29.668730271262028,0,Struggling
+59,6,geometry,47.94557863517788,1,Needs Improvement
+59,7,geometry,24.823887009638284,1,Mastered
+59,8,geometry,32.237879516388986,0,Struggling
+59,9,geometry,29.83577103927248,1,Mastered
+59,10,geometry,41.88393273448084,1,Needs Improvement
+59,11,number_sequence,55.26932425873622,1,Needs Improvement
+59,12,number_sequence,24.691312270796796,0,Struggling
+59,13,number_sequence,25.10560557481778,0,Struggling
+59,14,number_sequence,40.44160877069072,1,Needs Improvement
+59,15,number_sequence,36.81891489626312,1,Needs Improvement
+60,1,arithmetic,48.46707325736034,0,Struggling
+60,2,arithmetic,35.839281853259635,1,Needs Improvement
+60,3,arithmetic,26.407079092129404,0,Struggling
+60,4,arithmetic,35.90654830692309,1,Needs Improvement
+60,5,arithmetic,41.08703580582908,1,Needs Improvement
+60,6,geometry,38.204821811973645,1,Needs Improvement
+60,7,geometry,35.07274031107298,0,Struggling
+60,8,geometry,40.666746895891535,1,Needs Improvement
+60,9,geometry,41.69295590445672,0,Struggling
+60,10,geometry,43.82158991037527,1,Needs Improvement
+60,11,number_sequence,36.48709887589643,1,Needs Improvement
+60,12,number_sequence,28.328819196831457,0,Struggling
+60,13,number_sequence,31.467136864333227,0,Struggling
+60,14,number_sequence,42.06508966508357,1,Needs Improvement
+60,15,number_sequence,21.83064329012764,1,Mastered
+61,1,arithmetic,33.686733088729014,1,Mastered
+61,2,arithmetic,26.066611876726395,0,Struggling
+61,3,arithmetic,30.287448229348172,1,Mastered
+61,4,arithmetic,42.78451862607299,1,Needs Improvement
+61,5,arithmetic,31.910990680199035,1,Mastered
+61,6,geometry,30.464365481561487,1,Mastered
+61,7,geometry,16.401438590200808,1,Mastered
+61,8,geometry,37.46253566027221,1,Needs Improvement
+61,9,geometry,36.45484181141075,1,Needs Improvement
+61,10,geometry,51.6325472330546,1,Needs Improvement
+61,11,number_sequence,26.922217650469992,1,Mastered
+61,12,number_sequence,32.19150327663939,0,Struggling
+61,13,number_sequence,32.49383683710755,1,Mastered
+61,14,number_sequence,45.77453279763475,1,Needs Improvement
+61,15,number_sequence,29.04704467613048,1,Mastered
+62,1,arithmetic,32.790215257703395,0,Struggling
+62,2,arithmetic,36.078965097165394,0,Struggling
+62,3,arithmetic,31.86609123156358,1,Mastered
+62,4,arithmetic,25.53566385449472,0,Struggling
+62,5,arithmetic,31.940899928983075,1,Mastered
+62,6,geometry,40.73631749859772,0,Struggling
+62,7,geometry,19.7348470058894,0,Struggling
+62,8,geometry,31.32969674146876,0,Struggling
+62,9,geometry,22.998791850608267,0,Struggling
+62,10,geometry,41.950466289248425,1,Needs Improvement
+62,11,number_sequence,14.768130952162252,0,Struggling
+62,12,number_sequence,24.410781527284115,1,Mastered
+62,13,number_sequence,33.772118750645205,1,Mastered
+62,14,number_sequence,45.65524029234341,1,Needs Improvement
+62,15,number_sequence,29.34249738927012,1,Mastered
+63,1,arithmetic,24.448004733068014,1,Mastered
+63,2,arithmetic,48.8115706944059,1,Needs Improvement
+63,3,arithmetic,15.51986099583756,0,Struggling
+63,4,arithmetic,8.011940433799182,1,Mastered
+63,5,arithmetic,34.40014450053332,1,Mastered
+63,6,geometry,24.979457756473888,1,Mastered
+63,7,geometry,19.78767182869287,1,Mastered
+63,8,geometry,37.08356447299353,1,Needs Improvement
+63,9,geometry,32.43800713771199,1,Mastered
+63,10,geometry,24.359213692632714,1,Mastered
+63,11,number_sequence,17.196956013291057,1,Mastered
+63,12,number_sequence,38.72457328280144,0,Struggling
+63,13,number_sequence,36.50201177958661,1,Needs Improvement
+63,14,number_sequence,29.00824136220617,0,Struggling
+63,15,number_sequence,48.466369960476655,1,Needs Improvement
+64,1,arithmetic,19.299152336738477,1,Mastered
+64,2,arithmetic,14.74474829075261,0,Struggling
+64,3,arithmetic,23.08091930118756,0,Struggling
+64,4,arithmetic,29.544139836445023,0,Struggling
+64,5,arithmetic,32.43339449322692,1,Mastered
+64,6,geometry,27.587639421436705,1,Mastered
+64,7,geometry,33.520553965142966,1,Mastered
+64,8,geometry,17.48460575809556,1,Mastered
+64,9,geometry,44.4376460407326,1,Needs Improvement
+64,10,geometry,29.178488216074317,1,Mastered
+64,11,number_sequence,41.17295831588128,1,Needs Improvement
+64,12,number_sequence,33.42725346377704,1,Mastered
+64,13,number_sequence,34.56753219153784,1,Mastered
+64,14,number_sequence,35.69767280232204,0,Struggling
+64,15,number_sequence,34.47708560017315,1,Mastered
+65,1,arithmetic,36.42722759867544,1,Needs Improvement
+65,2,arithmetic,43.29152530132431,0,Struggling
+65,3,arithmetic,31.965211697014706,1,Mastered
+65,4,arithmetic,37.09003757588512,0,Struggling
+65,5,arithmetic,29.10264305712773,0,Struggling
+65,6,geometry,44.40117215449473,1,Needs Improvement
+65,7,geometry,23.2360769794073,0,Struggling
+65,8,geometry,48.00940432910816,1,Needs Improvement
+65,9,geometry,29.598420493556567,1,Mastered
+65,10,geometry,15.69224897881952,0,Struggling
+65,11,number_sequence,31.28104414910789,1,Mastered
+65,12,number_sequence,23.18948342525119,0,Struggling
+65,13,number_sequence,38.40643548988725,1,Needs Improvement
+65,14,number_sequence,23.47376020697609,1,Mastered
+65,15,number_sequence,25.538165667852205,0,Struggling
+66,1,arithmetic,11.104592690544692,0,Struggling
+66,2,arithmetic,25.476936807509237,1,Mastered
+66,3,arithmetic,5.761206733710434,1,Mastered
+66,4,arithmetic,14.160971765142769,0,Struggling
+66,5,arithmetic,37.604146561442974,1,Needs Improvement
+66,6,geometry,37.85800158650832,1,Needs Improvement
+66,7,geometry,34.254575617849646,1,Mastered
+66,8,geometry,20.33023856870787,1,Mastered
+66,9,geometry,29.5228864385802,1,Mastered
+66,10,geometry,29.963974609094315,1,Mastered
+66,11,number_sequence,18.41635310807457,1,Mastered
+66,12,number_sequence,45.0339830176715,1,Needs Improvement
+66,13,number_sequence,38.77362290575671,0,Struggling
+66,14,number_sequence,27.79035826170336,1,Mastered
+66,15,number_sequence,30.268858389945308,1,Mastered
+67,1,arithmetic,32.08382807947552,1,Mastered
+67,2,arithmetic,9.582651315757094,1,Mastered
+67,3,arithmetic,27.528226174794032,1,Mastered
+67,4,arithmetic,23.18015752002201,1,Mastered
+67,5,arithmetic,19.983799901050844,1,Mastered
+67,6,geometry,27.18899707114045,1,Mastered
+67,7,geometry,47.97686526849522,0,Struggling
+67,8,geometry,36.4084286126701,1,Needs Improvement
+67,9,geometry,24.28821010217203,1,Mastered
+67,10,geometry,35.72582781356159,0,Struggling
+67,11,number_sequence,43.99355436586002,1,Needs Improvement
+67,12,number_sequence,39.246336829127685,1,Needs Improvement
+67,13,number_sequence,30.59630369920174,1,Mastered
+67,14,number_sequence,23.530632222944263,0,Struggling
+67,15,number_sequence,36.982233136135896,0,Struggling
+68,1,arithmetic,33.934853854217494,1,Mastered
+68,2,arithmetic,38.95193220027733,0,Struggling
+68,3,arithmetic,36.351718016819696,1,Needs Improvement
+68,4,arithmetic,40.49552715319335,1,Needs Improvement
+68,5,arithmetic,24.64764788439432,0,Struggling
+68,6,geometry,43.173940656343255,1,Needs Improvement
+68,7,geometry,31.975996046924,1,Mastered
+68,8,geometry,50.75260872625265,1,Needs Improvement
+68,9,geometry,23.10812181910432,1,Mastered
+68,10,geometry,47.359638031652494,1,Needs Improvement
+68,11,number_sequence,31.97910783462648,1,Mastered
+68,12,number_sequence,23.48581996385552,1,Mastered
+68,13,number_sequence,25.161141659456785,1,Mastered
+68,14,number_sequence,26.7965269180568,1,Mastered
+68,15,number_sequence,34.241659464019165,1,Mastered
+69,1,arithmetic,35.228354880355,1,Needs Improvement
+69,2,arithmetic,24.26299996061421,1,Mastered
+69,3,arithmetic,29.75645407739017,0,Struggling
+69,4,arithmetic,51.42270358611864,1,Needs Improvement
+69,5,arithmetic,47.27543170100712,0,Struggling
+69,6,geometry,34.36323669674032,1,Mastered
+69,7,geometry,30.380034781682003,1,Mastered
+69,8,geometry,31.20031326718261,1,Mastered
+69,9,geometry,36.13517972730416,1,Needs Improvement
+69,10,geometry,19.772074348015945,1,Mastered
+69,11,number_sequence,27.426234625766547,1,Mastered
+69,12,number_sequence,13.314159261224106,1,Mastered
+69,13,number_sequence,33.992231226052795,1,Mastered
+69,14,number_sequence,36.47195939702741,1,Needs Improvement
+69,15,number_sequence,25.16813537700626,1,Mastered
+70,1,arithmetic,45.73986763290033,0,Struggling
+70,2,arithmetic,17.742343369976588,1,Mastered
+70,3,arithmetic,15.356251197901798,1,Mastered
+70,4,arithmetic,32.24451818559972,1,Mastered
+70,5,arithmetic,40.47098302612154,0,Struggling
+70,6,geometry,46.83927691457869,1,Needs Improvement
+70,7,geometry,25.4111573713106,0,Struggling
+70,8,geometry,40.78680833431296,1,Needs Improvement
+70,9,geometry,29.614915304992927,1,Mastered
+70,10,geometry,28.273727000591805,1,Mastered
+70,11,number_sequence,38.83659937486672,0,Struggling
+70,12,number_sequence,36.5232287841342,1,Needs Improvement
+70,13,number_sequence,14.236078430157503,1,Mastered
+70,14,number_sequence,44.76540349725896,1,Needs Improvement
+70,15,number_sequence,43.80091354147452,1,Needs Improvement
+71,1,arithmetic,23.744372984904707,0,Struggling
+71,2,arithmetic,33.95803533437409,1,Mastered
+71,3,arithmetic,34.94030186282739,1,Mastered
+71,4,arithmetic,32.60673765823907,1,Mastered
+71,5,arithmetic,24.4969484615458,0,Struggling
+71,6,geometry,23.283766320619485,1,Mastered
+71,7,geometry,29.744459290085548,1,Mastered
+71,8,geometry,41.72729019259364,1,Needs Improvement
+71,9,geometry,35.43600154594432,0,Struggling
+71,10,geometry,26.29385667913894,1,Mastered
+71,11,number_sequence,37.71698710648344,0,Struggling
+71,12,number_sequence,5.0,1,Mastered
+71,13,number_sequence,41.48765700372103,0,Struggling
+71,14,number_sequence,12.602862212219003,1,Mastered
+71,15,number_sequence,26.37559058596868,1,Mastered
+72,1,arithmetic,18.80330105373856,1,Mastered
+72,2,arithmetic,17.053185242790942,0,Struggling
+72,3,arithmetic,41.6082678737852,1,Needs Improvement
+72,4,arithmetic,25.32298798688109,1,Mastered
+72,5,arithmetic,33.46503881730716,1,Mastered
+72,6,geometry,29.53079421120816,1,Mastered
+72,7,geometry,34.770408272231215,0,Struggling
+72,8,geometry,30.768218910602556,1,Mastered
+72,9,geometry,17.170077758114303,0,Struggling
+72,10,geometry,39.9626681944714,1,Needs Improvement
+72,11,number_sequence,25.06243416838688,0,Struggling
+72,12,number_sequence,14.43418101340249,1,Mastered
+72,13,number_sequence,25.718848390340877,1,Mastered
+72,14,number_sequence,45.00759790634311,1,Needs Improvement
+72,15,number_sequence,38.50221742113493,1,Needs Improvement
+73,1,arithmetic,26.513478655921407,1,Mastered
+73,2,arithmetic,26.507422956815716,1,Mastered
+73,3,arithmetic,26.78364948782617,0,Struggling
+73,4,arithmetic,50.76747983560841,1,Needs Improvement
+73,5,arithmetic,33.819354522315535,0,Struggling
+73,6,geometry,34.300416471910694,1,Mastered
+73,7,geometry,40.30283454031842,1,Needs Improvement
+73,8,geometry,32.387891590265134,1,Mastered
+73,9,geometry,27.409578541792968,0,Struggling
+73,10,geometry,28.036501509150217,1,Mastered
+73,11,number_sequence,29.28398740585936,1,Mastered
+73,12,number_sequence,29.627777634901584,1,Mastered
+73,13,number_sequence,37.2762954363698,1,Needs Improvement
+73,14,number_sequence,30.519458858072998,1,Mastered
+73,15,number_sequence,37.32640077215579,0,Struggling
+74,1,arithmetic,29.192834198914177,1,Mastered
+74,2,arithmetic,30.786351903160902,1,Mastered
+74,3,arithmetic,10.017993154678924,0,Struggling
+74,4,arithmetic,39.16327674702482,0,Struggling
+74,5,arithmetic,33.46488475897993,0,Struggling
+74,6,geometry,39.98010109859652,1,Needs Improvement
+74,7,geometry,5.0,1,Mastered
+74,8,geometry,50.88374704780728,0,Struggling
+74,9,geometry,28.60410371844826,1,Mastered
+74,10,geometry,41.08182816737517,0,Struggling
+74,11,number_sequence,19.60094072874469,1,Mastered
+74,12,number_sequence,36.1277390506257,0,Struggling
+74,13,number_sequence,19.46584436826344,1,Mastered
+74,14,number_sequence,23.76231039304195,1,Mastered
+74,15,number_sequence,49.14031353866786,1,Needs Improvement
+75,1,arithmetic,28.093175992366533,1,Mastered
+75,2,arithmetic,32.17432873179723,1,Mastered
+75,3,arithmetic,38.70067730688754,1,Needs Improvement
+75,4,arithmetic,34.95681887972604,0,Struggling
+75,5,arithmetic,31.50418905143577,0,Struggling
+75,6,geometry,33.64961002466225,1,Mastered
+75,7,geometry,54.03415585238275,0,Struggling
+75,8,geometry,29.423812029664145,0,Struggling
+75,9,geometry,32.010990467149675,1,Mastered
+75,10,geometry,40.50654396007612,1,Needs Improvement
+75,11,number_sequence,41.05525932957984,1,Needs Improvement
+75,12,number_sequence,41.8703030556038,0,Struggling
+75,13,number_sequence,36.38730222029184,0,Struggling
+75,14,number_sequence,18.569950872695166,1,Mastered
+75,15,number_sequence,46.33431532301096,0,Struggling
+76,1,arithmetic,18.53654606981312,0,Struggling
+76,2,arithmetic,33.02635465239033,1,Mastered
+76,3,arithmetic,22.457241499806425,1,Mastered
+76,4,arithmetic,29.358616534070077,1,Mastered
+76,5,arithmetic,33.2876241030348,0,Struggling
+76,6,geometry,33.21357215450273,0,Struggling
+76,7,geometry,34.21920754235285,1,Mastered
+76,8,geometry,46.13711269058647,0,Struggling
+76,9,geometry,34.5353430151398,1,Mastered
+76,10,geometry,27.558433647093512,1,Mastered
+76,11,number_sequence,39.64087168288357,1,Needs Improvement
+76,12,number_sequence,41.894704889246405,1,Needs Improvement
+76,13,number_sequence,17.723921848630077,0,Struggling
+76,14,number_sequence,35.97400069849858,1,Needs Improvement
+76,15,number_sequence,37.01172742310898,1,Needs Improvement
+77,1,arithmetic,27.02436496640008,1,Mastered
+77,2,arithmetic,43.75706813311619,0,Struggling
+77,3,arithmetic,28.49944412967473,0,Struggling
+77,4,arithmetic,31.25576453471542,1,Mastered
+77,5,arithmetic,28.269281757161306,1,Mastered
+77,6,geometry,30.15579047581468,1,Mastered
+77,7,geometry,19.037249131047982,0,Struggling
+77,8,geometry,15.599491174057055,1,Mastered
+77,9,geometry,45.94505063224972,1,Needs Improvement
+77,10,geometry,21.530386516816723,1,Mastered
+77,11,number_sequence,20.086076505436928,1,Mastered
+77,12,number_sequence,8.466098863962852,0,Struggling
+77,13,number_sequence,23.610382523104978,1,Mastered
+77,14,number_sequence,16.76910206592502,0,Struggling
+77,15,number_sequence,46.42015160136369,1,Needs Improvement
+78,1,arithmetic,40.09817089342634,1,Needs Improvement
+78,2,arithmetic,23.11849654822276,1,Mastered
+78,3,arithmetic,52.52435805344309,1,Needs Improvement
+78,4,arithmetic,39.81765486991594,0,Struggling
+78,5,arithmetic,26.75168616491377,1,Mastered
+78,6,geometry,5.005942851264269,1,Mastered
+78,7,geometry,52.90942572590742,0,Struggling
+78,8,geometry,16.10427533236404,0,Struggling
+78,9,geometry,13.54601253043108,1,Mastered
+78,10,geometry,40.225704320096405,0,Struggling
+78,11,number_sequence,54.39752406339273,1,Needs Improvement
+78,12,number_sequence,43.84272818510518,1,Needs Improvement
+78,13,number_sequence,35.639091200523595,1,Needs Improvement
+78,14,number_sequence,35.94754341665286,0,Struggling
+78,15,number_sequence,38.53415558780308,1,Needs Improvement
+79,1,arithmetic,37.58928589786765,1,Needs Improvement
+79,2,arithmetic,32.81191423969376,0,Struggling
+79,3,arithmetic,31.04201103951876,1,Mastered
+79,4,arithmetic,29.37406872100477,1,Mastered
+79,5,arithmetic,22.46035411133324,1,Mastered
+79,6,geometry,27.19324923133226,0,Struggling
+79,7,geometry,13.070431858046144,1,Mastered
+79,8,geometry,29.016603732052506,0,Struggling
+79,9,geometry,20.114088928490823,0,Struggling
+79,10,geometry,18.96410682784229,1,Mastered
+79,11,number_sequence,31.798941511534785,1,Mastered
+79,12,number_sequence,43.92002286344599,0,Struggling
+79,13,number_sequence,39.183166060023126,0,Struggling
+79,14,number_sequence,14.29499396376823,0,Struggling
+79,15,number_sequence,20.103718634296627,0,Struggling
+80,1,arithmetic,39.40771187988216,0,Struggling
+80,2,arithmetic,20.175126064616904,0,Struggling
+80,3,arithmetic,27.753668500029757,1,Mastered
+80,4,arithmetic,35.50052099024552,1,Needs Improvement
+80,5,arithmetic,20.316555451363648,1,Mastered
+80,6,geometry,31.0537550614596,1,Mastered
+80,7,geometry,16.659745050817953,0,Struggling
+80,8,geometry,23.98632356048786,1,Mastered
+80,9,geometry,33.19781934142537,1,Mastered
+80,10,geometry,14.070062664683308,1,Mastered
+80,11,number_sequence,34.40474737960399,1,Mastered
+80,12,number_sequence,29.80362201073319,1,Mastered
+80,13,number_sequence,35.524899544171475,1,Needs Improvement
+80,14,number_sequence,32.23914134064661,0,Struggling
+80,15,number_sequence,43.64140429973844,1,Needs Improvement
+81,1,arithmetic,31.252245026479077,1,Mastered
+81,2,arithmetic,25.70594458874747,1,Mastered
+81,3,arithmetic,31.22297503032284,1,Mastered
+81,4,arithmetic,35.43298029036388,0,Struggling
+81,5,arithmetic,30.48860070325704,1,Mastered
+81,6,geometry,30.405916912038823,1,Mastered
+81,7,geometry,22.980083121932445,1,Mastered
+81,8,geometry,23.37099082449052,1,Mastered
+81,9,geometry,15.973947282003063,0,Struggling
+81,10,geometry,47.4957674318694,1,Needs Improvement
+81,11,number_sequence,17.56136764608715,1,Mastered
+81,12,number_sequence,23.070948022040927,1,Mastered
+81,13,number_sequence,22.815927344308022,1,Mastered
+81,14,number_sequence,38.949243769444415,1,Needs Improvement
+81,15,number_sequence,27.05050321707972,1,Mastered
+82,1,arithmetic,42.477420726737336,0,Struggling
+82,2,arithmetic,23.26509375756132,1,Mastered
+82,3,arithmetic,32.78994162223802,1,Mastered
+82,4,arithmetic,21.646529467402427,1,Mastered
+82,5,arithmetic,51.45149127773388,1,Needs Improvement
+82,6,geometry,18.124015809704872,1,Mastered
+82,7,geometry,33.09820710227027,0,Struggling
+82,8,geometry,36.33776880932098,1,Needs Improvement
+82,9,geometry,34.137990974514985,0,Struggling
+82,10,geometry,28.14712341122292,1,Mastered
+82,11,number_sequence,28.701793002665735,0,Struggling
+82,12,number_sequence,30.43811471979109,1,Mastered
+82,13,number_sequence,28.52997998371512,1,Mastered
+82,14,number_sequence,39.63879116794909,0,Struggling
+82,15,number_sequence,52.10523001591351,1,Needs Improvement
+83,1,arithmetic,24.425082149921664,1,Mastered
+83,2,arithmetic,16.301970204209223,0,Struggling
+83,3,arithmetic,29.11717951648745,1,Mastered
+83,4,arithmetic,55.79709337654319,1,Needs Improvement
+83,5,arithmetic,21.96325432030269,1,Mastered
+83,6,geometry,46.39116805444068,0,Struggling
+83,7,geometry,46.77700814076441,0,Struggling
+83,8,geometry,24.464117582920053,0,Struggling
+83,9,geometry,35.68983079185276,0,Struggling
+83,10,geometry,46.283966231285376,0,Struggling
+83,11,number_sequence,26.208722590125127,1,Mastered
+83,12,number_sequence,27.964196398976384,1,Mastered
+83,13,number_sequence,24.18319086051356,1,Mastered
+83,14,number_sequence,19.85243269307133,1,Mastered
+83,15,number_sequence,23.50722454933993,0,Struggling
+84,1,arithmetic,17.760597332377436,0,Struggling
+84,2,arithmetic,30.34083468259226,1,Mastered
+84,3,arithmetic,22.30026768941358,0,Struggling
+84,4,arithmetic,32.33785911790748,1,Mastered
+84,5,arithmetic,14.441043537963727,1,Mastered
+84,6,geometry,33.30880232214457,1,Mastered
+84,7,geometry,38.33528961608925,1,Needs Improvement
+84,8,geometry,10.062643574285444,1,Mastered
+84,9,geometry,33.74056569847572,1,Mastered
+84,10,geometry,42.27668992473292,1,Needs Improvement
+84,11,number_sequence,17.903589813087947,1,Mastered
+84,12,number_sequence,46.72572386837703,1,Needs Improvement
+84,13,number_sequence,34.190190093660455,1,Mastered
+84,14,number_sequence,22.94988144241591,1,Mastered
+84,15,number_sequence,29.44230922342294,1,Mastered
+85,1,arithmetic,35.58326912521722,1,Needs Improvement
+85,2,arithmetic,30.760053914124114,1,Mastered
+85,3,arithmetic,35.387559924463694,0,Struggling
+85,4,arithmetic,20.793264069206337,1,Mastered
+85,5,arithmetic,31.69360824036078,1,Mastered
+85,6,geometry,15.8628550309502,1,Mastered
+85,7,geometry,28.887739386513,0,Struggling
+85,8,geometry,20.960923585352106,1,Mastered
+85,9,geometry,22.64470057410233,1,Mastered
+85,10,geometry,42.36093175210438,1,Needs Improvement
+85,11,number_sequence,40.91310120594269,1,Needs Improvement
+85,12,number_sequence,36.09138120907177,1,Needs Improvement
+85,13,number_sequence,19.07687235327421,1,Mastered
+85,14,number_sequence,26.835915503051982,1,Mastered
+85,15,number_sequence,42.13097699979184,0,Struggling
+86,1,arithmetic,31.41716913639905,1,Mastered
+86,2,arithmetic,53.19329539981695,0,Struggling
+86,3,arithmetic,33.93317839394372,1,Mastered
+86,4,arithmetic,31.92049116490032,0,Struggling
+86,5,arithmetic,26.908835357974983,0,Struggling
+86,6,geometry,31.33540904782282,0,Struggling
+86,7,geometry,28.47530163619456,0,Struggling
+86,8,geometry,37.0810867668859,1,Needs Improvement
+86,9,geometry,39.56702316794584,1,Needs Improvement
+86,10,geometry,22.140105394920504,1,Mastered
+86,11,number_sequence,16.68767046442222,0,Struggling
+86,12,number_sequence,11.637946268967037,0,Struggling
+86,13,number_sequence,35.079913269125434,0,Struggling
+86,14,number_sequence,18.966333938261265,0,Struggling
+86,15,number_sequence,8.471094070475171,1,Mastered
+87,1,arithmetic,33.885786045309644,0,Struggling
+87,2,arithmetic,54.92999517432791,1,Needs Improvement
+87,3,arithmetic,29.939290884601068,0,Struggling
+87,4,arithmetic,38.38490774451642,0,Struggling
+87,5,arithmetic,30.81829358547565,1,Mastered
+87,6,geometry,29.01110346808857,1,Mastered
+87,7,geometry,39.190764829877686,0,Struggling
+87,8,geometry,27.097254558113487,0,Struggling
+87,9,geometry,32.673923140719026,1,Mastered
+87,10,geometry,33.216978061960134,0,Struggling
+87,11,number_sequence,23.31909546356951,0,Struggling
+87,12,number_sequence,39.92042349536523,1,Needs Improvement
+87,13,number_sequence,28.250402433045917,1,Mastered
+87,14,number_sequence,22.442548405071552,1,Mastered
+87,15,number_sequence,35.365098435704034,1,Needs Improvement
+88,1,arithmetic,21.015320182089628,1,Mastered
+88,2,arithmetic,30.28181157369128,1,Mastered
+88,3,arithmetic,29.90881003355797,1,Mastered
+88,4,arithmetic,40.85895565831578,1,Needs Improvement
+88,5,arithmetic,34.746982328799525,0,Struggling
+88,6,geometry,29.74973041254856,1,Mastered
+88,7,geometry,38.17766299200287,1,Needs Improvement
+88,8,geometry,43.90207549017313,1,Needs Improvement
+88,9,geometry,35.578103063518626,1,Needs Improvement
+88,10,geometry,30.103526198433805,1,Mastered
+88,11,number_sequence,16.881637676498404,0,Struggling
+88,12,number_sequence,19.348863369246278,1,Mastered
+88,13,number_sequence,26.947752956453325,0,Struggling
+88,14,number_sequence,23.904877978407168,1,Mastered
+88,15,number_sequence,28.13028697014554,0,Struggling
+89,1,arithmetic,30.56649924897107,1,Mastered
+89,2,arithmetic,35.29692754356731,0,Struggling
+89,3,arithmetic,29.295012219409088,1,Mastered
+89,4,arithmetic,34.86501643826202,1,Mastered
+89,5,arithmetic,30.644744148101204,0,Struggling
+89,6,geometry,10.245334336461289,1,Mastered
+89,7,geometry,20.60664606181245,1,Mastered
+89,8,geometry,28.559124442783844,0,Struggling
+89,9,geometry,17.903052571588923,1,Mastered
+89,10,geometry,35.99928729996205,0,Struggling
+89,11,number_sequence,45.30750832343698,1,Needs Improvement
+89,12,number_sequence,42.18761851697317,1,Needs Improvement
+89,13,number_sequence,27.86557129069792,1,Mastered
+89,14,number_sequence,44.90726136849952,1,Needs Improvement
+89,15,number_sequence,31.48667457202112,0,Struggling
+90,1,arithmetic,26.62914028881961,0,Struggling
+90,2,arithmetic,23.8659733645906,1,Mastered
+90,3,arithmetic,26.975303135118715,1,Mastered
+90,4,arithmetic,26.118231814587716,1,Mastered
+90,5,arithmetic,31.70416222375488,1,Mastered
+90,6,geometry,31.605739810498648,1,Mastered
+90,7,geometry,30.030460201534144,1,Mastered
+90,8,geometry,34.369381697463496,1,Mastered
+90,9,geometry,41.906462747863415,1,Needs Improvement
+90,10,geometry,39.495541354413234,1,Needs Improvement
+90,11,number_sequence,15.151020315500965,0,Struggling
+90,12,number_sequence,5.0,1,Mastered
+90,13,number_sequence,39.34319911239274,1,Needs Improvement
+90,14,number_sequence,16.33121301584579,1,Mastered
+90,15,number_sequence,27.75234598107317,0,Struggling
+91,1,arithmetic,18.29886973940641,1,Mastered
+91,2,arithmetic,11.9801956241998,1,Mastered
+91,3,arithmetic,35.41462728204788,1,Needs Improvement
+91,4,arithmetic,37.59155160302647,0,Struggling
+91,5,arithmetic,24.23489599273281,0,Struggling
+91,6,geometry,5.0,1,Mastered
+91,7,geometry,24.537555517475173,1,Mastered
+91,8,geometry,33.91804005402547,1,Mastered
+91,9,geometry,15.210884312258711,1,Mastered
+91,10,geometry,31.83359919779156,0,Struggling
+91,11,number_sequence,29.846901508270044,1,Mastered
+91,12,number_sequence,35.792914996010886,0,Struggling
+91,13,number_sequence,31.19580368414153,1,Mastered
+91,14,number_sequence,20.269310591184443,1,Mastered
+91,15,number_sequence,41.965715016644914,1,Needs Improvement
+92,1,arithmetic,28.4147042697303,1,Mastered
+92,2,arithmetic,29.72695460490068,1,Mastered
+92,3,arithmetic,20.66732040926804,1,Mastered
+92,4,arithmetic,25.567177488084894,0,Struggling
+92,5,arithmetic,21.15197285973099,1,Mastered
+92,6,geometry,28.27053940076577,1,Mastered
+92,7,geometry,47.11708480142343,0,Struggling
+92,8,geometry,16.280988570686436,1,Mastered
+92,9,geometry,13.86438602123259,1,Mastered
+92,10,geometry,44.711703274936085,1,Needs Improvement
+92,11,number_sequence,27.90676322848134,1,Mastered
+92,12,number_sequence,23.30927261340084,1,Mastered
+92,13,number_sequence,40.39904687396076,0,Struggling
+92,14,number_sequence,23.94384460263136,0,Struggling
+92,15,number_sequence,48.260097135469366,1,Needs Improvement
+93,1,arithmetic,36.77925871339269,1,Needs Improvement
+93,2,arithmetic,25.12088591854297,0,Struggling
+93,3,arithmetic,51.57308213265503,1,Needs Improvement
+93,4,arithmetic,23.94285076996661,1,Mastered
+93,5,arithmetic,37.42095372009307,1,Needs Improvement
+93,6,geometry,32.99292580406492,0,Struggling
+93,7,geometry,43.01741289398798,1,Needs Improvement
+93,8,geometry,45.615111967268525,1,Needs Improvement
+93,9,geometry,30.320041490657665,1,Mastered
+93,10,geometry,22.465821296538167,1,Mastered
+93,11,number_sequence,34.59972142939117,1,Mastered
+93,12,number_sequence,23.22284630247894,1,Mastered
+93,13,number_sequence,50.13387247526623,0,Struggling
+93,14,number_sequence,31.365353310827373,1,Mastered
+93,15,number_sequence,26.346784486878917,1,Mastered
+94,1,arithmetic,31.846803058649083,1,Mastered
+94,2,arithmetic,16.528737104703033,0,Struggling
+94,3,arithmetic,20.283859614893487,0,Struggling
+94,4,arithmetic,42.00413907944426,1,Needs Improvement
+94,5,arithmetic,23.43105721028604,1,Mastered
+94,6,geometry,19.5308901731806,1,Mastered
+94,7,geometry,35.36652752527286,1,Needs Improvement
+94,8,geometry,41.85704154662997,1,Needs Improvement
+94,9,geometry,37.18953310665067,1,Needs Improvement
+94,10,geometry,39.960476858058165,1,Needs Improvement
+94,11,number_sequence,22.432049114305396,1,Mastered
+94,12,number_sequence,15.781893332581562,1,Mastered
+94,13,number_sequence,45.01333651955487,0,Struggling
+94,14,number_sequence,26.77320161157864,1,Mastered
+94,15,number_sequence,27.491669835449528,1,Mastered
+95,1,arithmetic,43.281941418490575,0,Struggling
+95,2,arithmetic,35.5623000940066,0,Struggling
+95,3,arithmetic,34.55887772081608,1,Mastered
+95,4,arithmetic,51.65002344901084,0,Struggling
+95,5,arithmetic,23.56481769619857,0,Struggling
+95,6,geometry,39.278401280812375,1,Needs Improvement
+95,7,geometry,30.57013124897085,1,Mastered
+95,8,geometry,32.68592278863257,1,Mastered
+95,9,geometry,45.28468426412532,0,Struggling
+95,10,geometry,35.07835756289624,0,Struggling
+95,11,number_sequence,35.38296079049633,1,Needs Improvement
+95,12,number_sequence,40.72507337309802,1,Needs Improvement
+95,13,number_sequence,26.350472704571143,1,Mastered
+95,14,number_sequence,21.607903326609936,1,Mastered
+95,15,number_sequence,19.551908059789664,1,Mastered
+96,1,arithmetic,10.33643410623998,0,Struggling
+96,2,arithmetic,50.56207129940322,1,Needs Improvement
+96,3,arithmetic,18.96791634278317,0,Struggling
+96,4,arithmetic,27.78746376414228,1,Mastered
+96,5,arithmetic,27.231867001110796,1,Mastered
+96,6,geometry,33.07406697809101,1,Mastered
+96,7,geometry,38.15737212539297,0,Struggling
+96,8,geometry,38.60473488359745,0,Struggling
+96,9,geometry,24.169225614310616,1,Mastered
+96,10,geometry,28.328782862135885,0,Struggling
+96,11,number_sequence,32.825799504882994,1,Mastered
+96,12,number_sequence,27.51308873816453,0,Struggling
+96,13,number_sequence,46.07345576019993,1,Needs Improvement
+96,14,number_sequence,34.90974951638251,1,Mastered
+96,15,number_sequence,37.348777860498174,1,Needs Improvement
+97,1,arithmetic,36.62881268667413,1,Needs Improvement
+97,2,arithmetic,41.73473857485325,0,Struggling
+97,3,arithmetic,31.81021558703707,0,Struggling
+97,4,arithmetic,17.031680520441533,1,Mastered
+97,5,arithmetic,33.996879517526416,1,Mastered
+97,6,geometry,23.48643106208171,1,Mastered
+97,7,geometry,24.713833182502437,0,Struggling
+97,8,geometry,35.863640187550935,0,Struggling
+97,9,geometry,42.38283071433636,0,Struggling
+97,10,geometry,30.212715767360617,1,Mastered
+97,11,number_sequence,33.08833012598964,0,Struggling
+97,12,number_sequence,47.02214944635238,1,Needs Improvement
+97,13,number_sequence,32.407531794885685,0,Struggling
+97,14,number_sequence,56.01683114180395,1,Needs Improvement
+97,15,number_sequence,35.65509645631544,1,Needs Improvement
+98,1,arithmetic,12.392372408441824,1,Mastered
+98,2,arithmetic,37.53341621104533,1,Needs Improvement
+98,3,arithmetic,33.81158384882778,1,Mastered
+98,4,arithmetic,42.897527540827454,1,Needs Improvement
+98,5,arithmetic,36.73181351269958,1,Needs Improvement
+98,6,geometry,28.61544016016226,1,Mastered
+98,7,geometry,17.757017637106344,1,Mastered
+98,8,geometry,27.909767427139748,0,Struggling
+98,9,geometry,21.494795457907,1,Mastered
+98,10,geometry,24.194765501952773,0,Struggling
+98,11,number_sequence,35.8857840442061,0,Struggling
+98,12,number_sequence,46.69904504351406,1,Needs Improvement
+98,13,number_sequence,33.94671529822981,1,Mastered
+98,14,number_sequence,18.04116937964816,1,Mastered
+98,15,number_sequence,34.446026682201406,1,Mastered
+99,1,arithmetic,41.966314866456514,1,Needs Improvement
+99,2,arithmetic,23.902170956806177,1,Mastered
+99,3,arithmetic,28.659828333270823,0,Struggling
+99,4,arithmetic,30.14688194729197,0,Struggling
+99,5,arithmetic,22.1510168691776,1,Mastered
+99,6,geometry,36.48280433843859,0,Struggling
+99,7,geometry,28.790518513922184,0,Struggling
+99,8,geometry,34.19532443907028,1,Mastered
+99,9,geometry,21.125078221979,1,Mastered
+99,10,geometry,25.625416996765896,1,Mastered
+99,11,number_sequence,37.22381357827771,1,Needs Improvement
+99,12,number_sequence,26.27166847908233,1,Mastered
+99,13,number_sequence,47.269638512334055,0,Struggling
+99,14,number_sequence,26.003638143853976,0,Struggling
+99,15,number_sequence,32.24684725751886,1,Mastered
+100,1,arithmetic,39.325908318730896,1,Needs Improvement
+100,2,arithmetic,15.816342670669684,1,Mastered
+100,3,arithmetic,12.39191188019224,0,Struggling
+100,4,arithmetic,14.743436854299052,1,Mastered
+100,5,arithmetic,42.62584103427182,1,Needs Improvement
+100,6,geometry,24.48141854107553,1,Mastered
+100,7,geometry,55.58199285668252,1,Needs Improvement
+100,8,geometry,24.357524013426115,1,Mastered
+100,9,geometry,31.84551303197037,1,Mastered
+100,10,geometry,45.42109952567876,1,Needs Improvement
+100,11,number_sequence,50.06092888159123,1,Needs Improvement
+100,12,number_sequence,50.61503576636397,1,Needs Improvement
+100,13,number_sequence,42.08366230593143,1,Needs Improvement
+100,14,number_sequence,40.24062525811463,1,Needs Improvement
+100,15,number_sequence,35.92526949201183,1,Needs Improvement
